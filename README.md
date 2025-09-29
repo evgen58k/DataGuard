@@ -1,2 +1,2 @@
-# vpn-telegram-bot
-Telegram bot for selling VPN subscriptions with OpenVPN
+# DataGuard VPN Bot
+Private Access, Instantly Delivered - Secure VPN configurations sent directly to your Telegram
